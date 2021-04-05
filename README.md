@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chanakas1995&label=Profile%20views&color=0e75b6&style=flat" alt="chanakas1995" /> </p>
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanakas1995" alt="chanakas1995" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chanakas1995" alt="chanakas1995" /></a> </p>
 <br/>
 <br/>
 
@@ -58,6 +58,7 @@
 <br/>
 <hr/>
 <br/>
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=chanakas1995&show_icons=true&locale=en" alt="chanakas1995" />
-
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chanakas1995&" alt="chanakas1995" />
+<p>
+	<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=chanakas1995&show_icons=true&locale=en" alt="chanakas1995" />
+	<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chanakas1995&" alt="chanakas1995" />
+</p>
